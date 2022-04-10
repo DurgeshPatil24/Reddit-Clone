@@ -1,6 +1,6 @@
 # Reddit
 
-This is a full stack clone of "Reddit" built with React, Redux, Express, NodeJS and PostgreSQL.
+This is a Full stack clone of "Reddit" built with React, Redux, Express, NodeJS and PostgreSQL.
 
 ## Features
 - JWT authentication
